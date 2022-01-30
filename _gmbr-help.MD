@@ -4,7 +4,7 @@
 
 ### Setup
 
-- Step 1: [Enter your Courses](#hi)
+- Step 1: [Enter your Courses](#enter-your-courses)
 - Step 2: [Create Breakout Rooms (nicknames, codes, or urls)](#create-breakout-rooms)
 - Step 3: Customize your Settings
 
@@ -43,7 +43,7 @@
 - Does this work with Google Classroom?
 - Will my extension data be overwritten with an updated version?
 
-### [hi](#hi)
+### Enter your courses
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
