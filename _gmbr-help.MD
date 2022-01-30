@@ -27,21 +27,12 @@
 
 ### FAQ
 
-- [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
-- [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension?)
-- What is a Nickname, Code, or URL?
-- Why is the extension not working properly? It used to work but now it doesn't?
-- Do students need to leave the main room when they go to the breakouts?
-- How can I close the breakout rooms when it is time to finish? And, is there a countdown timer?
-- Why can't I see any students in the Assign Participants section?
-- Why can't I see all of my students in the Assign Participants section?
-- Clicking on the slider doesn't work. Why can't slide between rooms?
-- Why am I getting noisy feedback from the other rooms?
-- How can I create simulated students and practice?
-- Do all the rooms have to be Meets? Can I include jamboards or other resource links as a "room"?
-- How can I use this extension on multiple computers?
-- Does this work with Google Classroom?
-- Will my extension data be overwritten with an updated version?
+- [Do my students need to install this extension](#do-my-students-need-to-install-this-extension)
+- [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
+- [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
+- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
+- [Why can't I see ANY students in the Assign Participants section](#why-cant-i-see-any-students-in-the-assign-participants-section)
+- [Why can't I see ALL of my students in the Assign Participants section?](#why-cant-i-see-all-of-my-students)
 
 ### Setup 1: Enter your courses
 
@@ -255,3 +246,34 @@
 - Normal Mode: In the "normal" mode where you open up all the breakouts simultaneously in either tab or tile mode, most teachers report that they need about 16G RAM to open more than a few rooms, such as 10. In the normal mode, please do NOT check the checkbox in the Meet tab, Sart Class section.
 
 - Low Memory (RAM) Mode: Video Demo In the "low memory mode" mode even a tiny computer such as a chromebook should be able to run and manage a very large number of breakouts, such as 50. Theoretically it is unlimited because only one breakout room is displayed on your computer at a time. Even though all the rooms are "open", your computer will display them one by one using the slider control For additional help on this option please click on the red Help in the checkbox text.
+
+### What is a nickname, code, or URL?
+
+- _Nickname_: A nickname is a user defined shortcut to call up a meet. Nicknames are specific to an organization. An example of a nickname is the teacher's name followed by the class, such as rhudek_webmagic1. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefixsuch as g.co/meet/ or meet.google.com/lookup/
+
+- _Google Classroom users_:You may enter the lookup link here in the rooms tab and the extension will strip out the nickname for you. The "Meet link" on your Google Classroom page has a link of the format https://meet.google.com/lookup/abcdefghij where the 10 characters after the lookup are your classroom's nickname. That nickname is a random set of characters and has no meaning, but technically it is a "nickname". As a convenience, you may enter that full "Meet link" and the extension will strip out the nickname, or you can alternatively enter the 10 characters after the lookup.
+
+  As an example, my Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. So for this Google Classroom my nickname is g45j4fubqb. The nomenclature is very confusing here which is unfortunate. Google Classroom says "Meet link" but this is actually a lookup for the meet since the meet url changes often. And the 10 characters after the lookup is your Google Classroom nickname even though that nickname has no semantic meaning. If you remember that the 10 characters after the lookup is your GC nickname then you will be able to keep things straight
+
+- _Code_: A code is the 10 character meet code, separated by two -, which makes it a total of 12 characters. An example is abc-defg-hij. Please remember, the extension requires the code to include the two - separators in order to differentiate it from a nickname.
+
+- _Url_: A url can be the full meet url, such as https://meet.google.com/abc-defg-hij. Another example of a url is a teaching resource such as a wikipedia page, https://en.wikipedia.org/wiki/Astronomy, or a free coding bootcamp page such as https://www.freecodecamp.org/
+
+### Why is the extension not working properly?
+
+- This may happen for a number of reasons. One reason is that a new version of my extension was not updated completely on your system. One way to force a restart of your extension is to go to your chrome browser, window menu, select extensions. Find this extension and then turn the slider off, wait 3 seconds, then turn the slider back on again. This does not delete your data. It is similar to restarting your computer but for your extension
+- Other things you may try are Refresh the control panel (command/control r) and Refresh the window (command/control r)
+- Another reason the extension may not work properly is that Google from time to time updates their google meet application which can cause conflicts with my extension. If that happens, or if you suspect something like that has happened to you and your fellow teachers, then please notify me so that I may fix it as soon as possible. My email is robert@hudektech.com.
+- If you feel like you need to uninstall the extension please first export your data so you don't have to re-enter it. First go to the Courses tab, far right hand side black button Export your data. After you uninstall the extension and re-install it, you may import your data. Import your data through the Courses tab and enter your file name.
+
+### Why can't I see any students in the Assign Participants section?
+
+- The main reason you cannot see any students in the Assign Participants section is likely because your display of Google Meet does not have any students in it. The students icons need to be visible in the meet window in order for the extension to see them to put them in the assign participants section.
+
+- If you are a Google Classroom teacher please make sure your Google Classroom meet is in sync with the Main room, by ensuring that the link is your Main room in the Rooms tab and you clicked on the open Main Room button to sync it up.
+
+- Please remember that if a link was created by another user, or by yourself but under a different google account name, then you may not be able to open that link. Google by default uses the Primary Account to open the meet links. The primary account is the FIRST account that you use to login to your computer with. You can view this primary account in the Rooms tab and also in the Meet tab. If it is not your correct account then unfortunately you will need to log out of all your google accounts and then re-log in keeping in mind your first login is your primary account (school account).
+
+### Why can't I see all of my students?
+
+- It is likely because your display is not tiled and not set to 49. Please click on the triple dot button on the bottom of your google meet and then select "Change Layout", then click on the radio button for the "Tiled" format, then click on the slider in that popup to push it to 49. Now you can view 49 students in a tiled format on the screen which should be plenty large enough for assigning participants.
