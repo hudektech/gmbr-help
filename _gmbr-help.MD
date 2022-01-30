@@ -126,6 +126,6 @@
 - If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
 - During class you can change the number of breakout rooms, so please don't worry that you need to decide this ahead of time. If you increase the number of breakout rooms then when you click to open "Breakouts" the extension will only open the breakouts that are not yet open. For example, if you first start out the class with 3 breakouts and later decide to add 2 more, then you may change the number of breakouts to 5 and click Open Breakouts. Just those 2 unopened rooms will be opened.
 - :warning: Please do not click on the checkbox "Low Memory Option" unless your computer has a very small amount of memory. If you check this box, then only one breakout room window will be displayed at a time. If you accidentally check this box, no worries. Just uncheck it and then choose your button option: Main, Breakouts, or Both
-- :point-right: To reorganize your tiled windows, after they are opened please click on the Red Re-tile button on the top right hand side of the control panel
+- :point_right: To reorganize your tiled windows, after they are opened please click on the Red Re-tile button on the top right hand side of the control panel
 
   ![retile](./data/use1b.png)
