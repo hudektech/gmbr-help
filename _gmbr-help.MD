@@ -28,7 +28,7 @@
 ### FAQ
 
 - [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
-- [How much memory (RAM) do I need to run the extension?](<#how-much-memory-(RAM)-do-i-need-to-run-the-extension?>)
+- [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension?)
 - What is a Nickname, Code, or URL?
 - Why is the extension not working properly? It used to work but now it doesn't?
 - Do students need to leave the main room when they go to the breakouts?
