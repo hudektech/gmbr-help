@@ -20,10 +20,10 @@
 
 ### Utilities
 
-- Re-tile
-- Minimize/Maximize control panel
-- Reports
-- Export / import
+- [Re-tile](#re-tile)
+- [Minimize/Maximize control panel](#minimizemaximize-control-panel)
+- [Reports](#reports)
+- [Export / import](#exportimport)
 
 ### FAQ
 
@@ -130,7 +130,7 @@
 - You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
 - If you first decided to only open the main room, you can always change you mind and open the breakouts later, by clicking on the "Breakouts" button.
 - If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
-- **Google Classroom Teachers**:
+- Google Classroom Teachers:
   - If you FIRST open the main room in the extension THEN open the google classroom meet link in your google classroom page, the main room is automatically linked.
   - However, most Google Classroom Teachers first open their google classroom link from their google classroom page by clicking on the "meet link" in the Stream or the icon in their Classwork. That's fine no worries. In this case, when you want to use the breakout extension, please click on the "Main Room" button in this extension to sync the extension with your google classorom page. When you click on the "Main Room" button you should see the tab for the main room to display "Main Room" which indicates everything is synced up correctly.
   - Also as a friendly reminder for GC teachers, in the [setup section step 2](#setup-2-create-breakout-rooms) you will have needed to copy your google classroom link into the Rooms tab as the Main room.
@@ -146,11 +146,15 @@
 
 - The instructions for assigning participants in the ad hoc mode (i.e., on the fly) are described in the Meet tab, Assign Participants - Ad Hoc section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
+  ![3b](./data/use3a.jpg)
+
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
 [Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
 
 - The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
+
+  ![3b](./data/use3b.jpg)
 
 ### Teach Class 4: Move in/out of rooms using the Slider
 
@@ -158,7 +162,20 @@
 
 - To move between rooms, please either click on the right or left arrows next to the slider or click on the blank space in the slider bar (the black portion). If you click on a blank space in the slider bar, the yellow dot will immediately move to that position.
 
-- To avoid inconsistencies, please use the audio visual buttons on the control panel rather than directly clicking the buttons in the individual rooms. If the rooms and the control panel become out of sync, it is easy to get back in sync. Just click on the right arrow and then the left arrow to go right and left, then everything should be back in sync. The selected breakout room speaker/audio/video controls are below the slider. For all other rooms, the speaker/audio/video controls of tab speaker, microphone, and video are turned off.
+  ![slider](./data/slider.jpg)
+
+- When you move between rooms, the slider will automatically do the following muting:
+
+  - In the current room:
+    - Turn ON the speaker so the teacher can listen to the students in that room
+    - Turn OFF the teacher's microphone to avoid disturbing the breakout discussion. To speak to the students, the teacher may click on that microphone button to toggle it on/off.
+    - Turn OFF the teacher's camera to avoid disturbing the breakout discussion. To show the teacher's camera to the students, the teacher may click on that video button to toggle it on/off.
+  - In all other rooms:
+    - The speaker is turned off.
+    - The teacher's microphone is turned off.
+    - The teacher's camera is turned off.
+
+- To avoid inconsistencies between the control panel and the individual meet windows, please use the audio visual buttons on the control panel rather than directly clicking the buttons in the individual meet windows. However, If the rooms and the control panel become out of sync, it is easy to get back in sync. Just click on the right arrow and then the left arrow to go right and left, then everything should be back in sync.
 
 - Occasionally if the slider yellow dot on the slider is moved back and forth too quickly then the rooms can temporarily become out of sync. Multiple rooms may have their speaker, microphone, and video on. To get back in sync again, it's simple. Just click on the slider right arrow and then click on the left arrow slider. This will move you right and then left, syncing all the other rooms back to off, off, off for speaker, microphone, and slider.
 
@@ -170,28 +187,60 @@ Click here for video tutorial
 
 - Click on the broadcast speaker/microphone/video controls to broadcast into all of the breakout rooms.
 
+  ![mute](./data/broadcast.jpg)
+
+- Once you click on the slider either left or right, the broadcast will automatically be turned off and the normal mode of listening to the breakout room with muted teacher video and muted teacher microphone.
+
 ### Teach Class 6: Mute and Remove Students
 
 Click here for video tutorial
 
-- To mute the participants in a selected room, click on the first button. To remove participants from a room, click on the second button. To remove participants and close the room click on the last button.
+- To mute the participants in a selected room, click on the mute button for the corresponding selection.
+- To remove participants from a room, click on remove button for the corresponding selection.
+- To remove participants and close the room click on the Class Over buttons
 
-Re-Tile
+  ![mute](./data/mute.jpg)
+
+### Re-Tile
+
 Click here for video tutorial
 
-This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms. This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
+- This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
 
-Minimize/Maximize Control Panel
+  ![retile](./data/use1b.png)
+
+- This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
+
+### Minimize/Maximize Control Panel
+
 Click here for video tutorial
 
-The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size. Once the rooms are all open then the teacher may minimize the control panel and just use the slider to move between rooms. Please note that ALL of the features of the full-size control panel are still available in the minimized state. All the teacher has to do is scroll down to see the rest of the functions, such as broadcast as one example.
+- The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
 
-Reports
+  ![retile](./data/use1c.jpg)
+
+- Once the rooms are all open then the teacher may minimize the control panel and just use the slider to move between rooms. Please note that ALL of the features of the full-size control panel are still available in the minimized state. All the teacher has to do is scroll down to see the rest of the functions, such as broadcast as one example.
+
+### Reports
+
 Click here for video tutorial
 
-Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
+- Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
 
-Export/Import
+  ![mute](./data/reports.jpg)
+
+### Export/Import
+
 Click here for video tutorial
 
-There are export/import of breakout room within the "Rooms" tab. To copy the entire project, all of the courses and all of the breakout rooms, choose the export/import option within the "Courses" tab
+- There are export/import of breakout room within the "Rooms" tab.
+
+  ![room-download](./data/rooms-export.jpg)
+
+- **Most common usage:** To copy the entire project, all of the courses and all of the breakout rooms, choose the export/import option within the "Courses" tab. Teachers export the extension file data in order to back it up in the event needing to uninstall / re-install the extension or to copy the breakout room extension data to another one of their computers.
+
+  ![courses-download](./data/courses-export.jpg)
+
+- The export file is a very small text file which contains the breakout rooms links, courses, and settings. It should be downloaded into your pc's download folder.
+
+  ![export-popup](./data/export-popup.jpg)
