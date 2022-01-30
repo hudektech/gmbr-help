@@ -118,6 +118,7 @@
 - On the Meet tab, click on the section "Start Class"
 
 - Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
+
   ![meet tab](./data/use1a.png)
 
 - You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
