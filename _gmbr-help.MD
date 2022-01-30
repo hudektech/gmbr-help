@@ -6,15 +6,15 @@
 
 - Step 1: [Enter your Courses](#setup-1-enter-your-courses)
 - Step 2: [Create Breakout Rooms](#setup-2-create-breakout-rooms)
-- Step 3: [Customize your Settings](#setup-3-customize-settings)
+- Step 3: [Customize your Settings](#setup-3-customize-your-settings)
 
-### Operation
+### Teach Class
 
-- Step 1: Choose your course and select the number of breakout rooms
+- Step 1: [Select course and number of rooms](#teach-class-1-select-course-and-number-of-rooms)
 - Step 2: Start your class
 - Step 3A: Assign breakouts - Ad Hoc
 - Step 3B: Assign breakouts - Pre Assigned
-- Step 4: Slider move in/out of rooms
+- Step 4: Move in/out of rooms using slider
 - Step 5: Broadcast to all breakout rooms
 - Step 6: Mute and remove students
 
@@ -94,3 +94,12 @@ Google Classroom Teachers: Please copy and paste your "Meet link" from your goog
 - Automatically refresh room links when opened: [Video tutorial](https://www.youtube.com/watch?v=YU7cMYNKrww) If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
 
 - There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
+
+### Teach Class 1: Select course and number of rooms
+
+[Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
+
+- On the Meet tab, click on the section "Start Class"
+- Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
+- During class you can change the number of breakout rooms, so please don't worry that you need to decide this ahead of time. If you increase the number of breakout rooms then when you click on Open Breakout the extension will only open the breakouts that are not yet open. For example, if you first start out the class with 3 breakouts and later decide to add 2 more, then you may change the number of breakouts to 5 and click Open Breakouts. Just those 2 unopened rooms will be opened.
+- To reorganize your tiled windows, after they are opened please click on the Red Re-tile button on the top right hand side of the control panel
