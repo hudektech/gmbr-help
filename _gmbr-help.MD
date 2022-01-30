@@ -97,9 +97,17 @@ Google Classroom Teachers: Please copy and paste your "Meet link" from your goog
 
 ### Teach Class 1: Select course and number of rooms
 
-[Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
+> [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
 - On the Meet tab, click on the section "Start Class"
+
+  ![meet tab](./data/use1a.png)
+
 - Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
-- During class you can change the number of breakout rooms, so please don't worry that you need to decide this ahead of time. If you increase the number of breakout rooms then when you click on Open Breakout the extension will only open the breakouts that are not yet open. For example, if you first start out the class with 3 breakouts and later decide to add 2 more, then you may change the number of breakouts to 5 and click Open Breakouts. Just those 2 unopened rooms will be opened.
-- To reorganize your tiled windows, after they are opened please click on the Red Re-tile button on the top right hand side of the control panel
+- You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
+- If you first decided to only open the main room, you can always change you mind and open the breakouts later, by clicking on the "Breakouts" button.
+- If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
+- During class you can change the number of breakout rooms, so please don't worry that you need to decide this ahead of time. If you increase the number of breakout rooms then when you click to open "Breakouts" the extension will only open the breakouts that are not yet open. For example, if you first start out the class with 3 breakouts and later decide to add 2 more, then you may change the number of breakouts to 5 and click Open Breakouts. Just those 2 unopened rooms will be opened.
+- :point-right: To reorganize your tiled windows, after they are opened please click on the Red Re-tile button on the top right hand side of the control panel
+
+  ![retile](./data/use1b.png)
