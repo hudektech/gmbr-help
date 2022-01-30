@@ -14,7 +14,7 @@
 - Step 2: [Start your class](#teach-class-2-start-your-class)
 - Step 3A: [Assign breakouts - Ad Hoc](#teach-class-3a-assign-breakouts--ad-hoc)
 - Step 3B: [Assign breakouts - Pre Assigned](#teach-class-3b-assign-breakouts--pre-assigned)
-- Step 4: [Move in/out of rooms using slider](#teach-class-4-move-in/out-of-rooms-using-slider)
+- Step 4: [Move in/out of rooms using the slider](#teach-class-4-move-in/out-of-rooms-using-the-slider)
 - Step 5: [Broadcast to all breakout rooms](#teach-class-5-broadcast-to-all-breakout-rooms)
 - Step 6: [Mute and remove students](#teach-class-6-mute-and-remove-students)
 
@@ -146,7 +146,7 @@
 
 - The instructions for assigning participants in the ad hoc mode (i.e., on the fly) are described in the Meet tab, Assign Participants - Ad Hoc section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
-### Teach Class 3a: Assign Breakouts - Pre Assigned
+### Teach Class 3b: Assign Breakouts - Pre Assigned
 
 [Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
 
