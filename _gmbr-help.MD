@@ -29,6 +29,8 @@
 
 ### FAQ
 
+  <!-- omit in toc -->
+
 - [Do my students need to install this extension](#do-my-students-need-to-install-this-extension)
   <!-- omit in toc -->
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
@@ -37,7 +39,15 @@
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
-- [How can I close the breakout rooms?](#how-can-i-close-the-breakouts)
+- [How can I close the breakouts?](#how-can-i-close-the-breakouts)
+- [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
+- [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
+- [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
+- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
+- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
+- [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
+- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
+- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
 ### Setup 1: Enter your courses
 
@@ -295,8 +305,36 @@
 
 ### How can I close the breakouts?
 
-- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it. **_ Note that I have not tested this myself. This is based on what I read on Google Meet forums _**
+- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it. **Note that I have not tested this myself. This is based on what I read on Google Meet forums**
 
 - I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you. I cannot guarantee it will work this way because I have not tested this 40 second prevent re-entry scenario
 
 - You may close the breakout rooms directly by closing the window like any other window or you can click on the "Close Room" button in the Room Participants Control section. If students are lingering and not leaving after you asked them to, you may remove them using the "Remove All Participants" button. After they are removed (and you wait more than 40 seconds if you need to ensure they cannot re-enter) then you may close the room
+
+### How can I simulate students to practice using the extension?
+
+- If you have a Google suite account then you can create simulated students by using Chrome incognito and enter any name you choose. If you do not have a Google suite account then you will need to use (extra) Google accounts to simulate students
+
+### Do all the rooms have to be Meets?
+
+- Yes, you can! As of version 15.9 and above, "rooms" may include non-Meet links such as any resource you may want to use for teaching materials during class. Examples are a youtube video, an online news article, or a science web page which you want to cover during class. Just create a "room" for those resources, give the resource a name such as "Astronomy", and enter the appropriate url link value such as https://solarsystem.nasa.gov/asteroids-comets-and-meteors/overview/. Please remember that your link must start with either https:// or http:// otherwise it will be considered invalid and a new google meet link will be created and stored in it's place.
+
+- Resource "rooms" can be a useful way of staging your resources that you want to cover during class. You can then open them as needed by increasing the number of breakout "rooms" and then click open. The resource rooms can be retiled the same as a Meet breakout room, but they are not available on the slider because there the slider is meant for entering a meet room which audio/visual controls.
+
+- Even if a teacher does not want to use breakout rooms for a teaching session, the teacher can still use this feature to stage resources and call them up as needed. In this case, let's say the teacher is only going to open the Main room, but the teacher may stage all the rest of the rooms as resources that will be discussed during class. So in this way the "Breakout Rooms" extension can be useful for teachers who actually never use breakout rooms. The breakout rooms for these teachers is really a staging, opening, and retiling of resources that will be taught in class
+
+- The rooms can be moved up and down in the Rooms tab by dragging and dropping. The resources are opened by the number of breakout rooms selected on the Meet tab. So if a teacher wants a split screen with the main room on one side and the resource on the other, the teacher can do that by selecting "1" as the number of breakouts and then open all rooms (just one in this case, the resource). After the resource is covered, the teacher can go back to the Rooms tab, drag and drop the next resource and open all, then retile. The new resource will open and snap into place on the right hand side. Teachers can progress through the list of their in this manner.
+
+- Another option for grouping your resources is to create a "course" to hold your resources. This way if you are teaching in the main room only (no breakouts), you can switch the course on the Meet tab to the resource "course" and open it's breakouts. You can then present your screen or these tabs in your main room. Actually, the possibilities are almost endless. Explore and try out this new feature to see what works best for you. I think you may find it quite useful to organize and present your additional online teaching materials
+
+### How can I use this extension on multiple computers?
+
+- Use the export/import option in the "Courses" tab to download your data from your first computer. Go to your second computer and import this file. Now the two computers are in sync
+
+### Does this work with Google Classroom?
+
+- Yes, and there is a special workflow for integrating with Google Classroom which is described step by step in the Start Class with Google Classroom section on the meet tab of this extension
+
+### Will my extension data be overwritten with a new updated version?
+
+- It shouldn't be be overwritten and I try my best to avoid those situations. To protect yourself I advise everyone to download their data periodically using the Export function in the Course tab which will download all the relevant data from the extension to your computer download folder. If something goes wrong the new version and you need to re-install the extension, you can import the data using the Import function and that should re-install your previous data.
