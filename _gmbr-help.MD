@@ -1,4 +1,4 @@
-## Google Meet Breakout Rooms by Robert Hudek - Online Help
+## Breakout Rooms Extension by Robert Hudek - Online Help
 
 ## [Quickstart v17 Help Video](https://youtu.be/R6h9YXri2Mw)
 
