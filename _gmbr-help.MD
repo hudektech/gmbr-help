@@ -55,7 +55,7 @@
 
 - Breakout Rooms Extension is organized by courses. The first step is to enter your courses in the "Courses" tab.
 
-  ![Enter Course](./data/setup1.png)
+  ![Enter Course](./data/setup1.jpg)
 
 - It is possible to use this extension with just ONE course. You do not need to add multiple courses if you do not want to. If you want to run all your classes through one set of google links which are organized by that one course, you certainly can.
 - Multiple courses option is so that teachers may assign certain links to different classes, perhaps on a more permanent basis. Separating them into different courses may make it easier to manage, but it is not a requirement. You can just use ONE course if you want to.
