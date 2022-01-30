@@ -12,9 +12,9 @@
 
 - Step 1: [Select course and number of rooms](#teach-class-1-select-course-and-number-of-rooms)
 - Step 2: [Start your class](#teach-class-2-start-your-class)
-- Step 3A: [Assign breakouts - Ad Hoc](#teach-class-3a-assign-breakouts--ad-hoc)
-- Step 3B: [Assign breakouts - Pre Assigned](#teach-class-3b-assign-breakouts--pre-assigned)
-- Step 4: [Move in/out of rooms using the slider](#teach-class-4-move-in/out-of-rooms-using-the-slider)
+- Step 3A: [Assign breakouts - Ad Hoc](#teach-class-3a-assign-breakouts---ad-hoc)
+- Step 3B: [Assign breakouts - Pre Assigned](#teach-class-3b-assign-breakouts---pre-assigned)
+- Step 4: [Move in/out of rooms using the slider](#teach-class-4-move-inout-of-rooms-using-the-slider)
 - Step 5: [Broadcast to all breakout rooms](#teach-class-5-broadcast-to-all-breakout-rooms)
 - Step 6: [Mute and remove students](#teach-class-6-mute-and-remove-students)
 
