@@ -142,7 +142,7 @@
 
 ### Teach Class 3a: Assign Breakouts - Ad Hoc
 
-[Click here for video tutorial](https://www.youtube.com/watch?v=8W3BOhwb1hU)
+> [Click here for video tutorial](https://www.youtube.com/watch?v=8W3BOhwb1hU)
 
 - The instructions for assigning participants in the ad hoc mode (i.e., on the fly) are described in the Meet tab, Assign Participants - Ad Hoc section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
@@ -150,7 +150,7 @@
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
-[Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
+> [Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
 
 - The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
@@ -183,7 +183,7 @@
 
 ### Teach Class 5: Broadcast to All Breakout Rooms
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=BywcEyeyCs4)
 
 - Click on the broadcast speaker/microphone/video controls to broadcast into all of the breakout rooms.
 
@@ -193,7 +193,7 @@ Click here for video tutorial
 
 ### Teach Class 6: Mute and Remove Students
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=z6SlEL8Mj_A)
 
 - To mute the participants in a selected room, click on the mute button for the corresponding selection.
 - To remove participants from a room, click on remove button for the corresponding selection.
@@ -203,7 +203,7 @@ Click here for video tutorial
 
 ### Re-Tile
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=tu59dut08hU)
 
 - This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
 
@@ -213,7 +213,7 @@ Click here for video tutorial
 
 ### Minimize/Maximize Control Panel
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=0kG_qOnfj2E)
 
 - The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
 
@@ -223,7 +223,7 @@ Click here for video tutorial
 
 ### Reports
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=WaNBaIAkKUY)
 
 - Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
 
@@ -231,7 +231,7 @@ Click here for video tutorial
 
 ### Export/Import
 
-Click here for video tutorial
+> [Click here for video tutorial](https://www.youtube.com/watch?v=GtCh2Mrx6Rk)
 
 - There are export/import of breakout room within the "Rooms" tab.
 
@@ -241,6 +241,6 @@ Click here for video tutorial
 
   ![courses-download](./data/courses-export.jpg)
 
-- The export file is a very small text file which contains the breakout rooms links, courses, and settings. It should be downloaded into your pc's download folder.
+- The export file is a very small text file which contains the breakout rooms links, courses, and settings. It will be downloaded into your pc's download folder.
 
   ![export-popup](./data/export-popup.jpg)
