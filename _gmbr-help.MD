@@ -4,9 +4,9 @@
 
 ### Setup
 
-- Step 1: [Enter your Courses](#enter-your-courses)
-- Step 2: [Create Breakout Rooms (nicknames, codes, or urls)](#create-breakout-rooms)
-- Step 3: Customize your Settings
+- Step 1: [Enter your Courses](#setup-1-enter-your-courses)
+- Step 2: [Create Breakout Rooms](#setup-2-create-breakout-rooms)
+- Step 3: [Customize your Settings](#setup-3-customize-settings)
 
 ### Operation
 
@@ -43,7 +43,7 @@
 - Does this work with Google Classroom?
 - Will my extension data be overwritten with an updated version?
 
-### Enter your courses
+### Setup 1: Enter your courses
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
@@ -53,7 +53,7 @@ The red delete button deletes from the bottom up so if you want to delete a cour
 
 Also in the Courses tab is the export/import button which is the far right hand side black button. This will export all of your data from the extension so that you can import it into a second computer
 
-### Create Breakout Rooms
+### Setup 2: Create Breakout Rooms
 
 > [Click here for video tutorial (short version)](https://www.youtube.com/watch?v=eyl8b4RWJMc)
 
@@ -76,3 +76,21 @@ Google Classroom Teachers: Please copy and paste your "Meet link" from your goog
   To make meet urls dynamic you may click the "Automatically create links each time the room is opened" checkbox in the Settings. This checkbox is only relevant for meet urls. The checkbox is ignored for all other categories such as nicknames, codes, and resource urls.
 
 - Resource Url: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
+
+### Setup 3: Customize your Settings
+
+> [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
+
+- Tabs/Tiles: This controls whether the breakout rooms each have their own window (tiles) or if they are separate tabs in a window (tabs). The tabs option can control the number of tabs within a window
+
+- Colors: Customize the bottom border of your Google Meet
+
+- Automatically Allow Outside Participants to enter: This allows participants from outside your organization to automatically enter your room without your approval. If you check this box then if the participant has the link then they can automatically enter the room. This is the equivalent of allowing yourself to be zoom bombed. It is a huge convenience to allow outside participants to enter breakout rooms if they have the link but there is the possibility that an unrecognized person who has this link may enter. The default is Off (not checked). Recommendation is to leave it off to prevent outsiders from entering without your approval.
+
+- Slider and Broadcast Background Images: [Video tutorial]() Choose an URL for an image or leave it blank and just choose a background color ("Back Color"). Font colors can be changed for light and dark background, as well as the position and size of the images
+
+- Automatically Join Meet: [Video tutorial](https://www.youtube.com/watch?v=-AHaEjdP5vg) Only meets whose URL is listed in the rooms tab may be eligible for an automatic join. For "eligible" meets, this automatic join function can be turned on or off by clicking or leaving the checkbox for the Main room and Breakout rooms. All meets with URLs that are not listed in the Rooms tab will not be automatically joined.
+
+- Automatically refresh room links when opened: [Video tutorial](https://www.youtube.com/watch?v=YU7cMYNKrww) If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
+
+- There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
