@@ -43,7 +43,7 @@
 - Does this work with Google Classroom?
 - Will my extension data be overwritten with an updated version?
 
-### hi
+# hi
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
