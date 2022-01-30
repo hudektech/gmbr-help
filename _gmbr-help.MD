@@ -35,15 +35,16 @@
   <!-- omit in toc -->
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
 - [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
-- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
+- [Does this extension work with Co-Teachers?](#does-this-extension-work-with-co-teachers)
 - [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
 - [How can I close the breakouts?](#how-can-i-close-the-breakouts)
 - [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
 - [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
 - [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
 - [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
+- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 - [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
 - [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
@@ -292,6 +293,11 @@
 ### Why can't I see all of my students?
 
 - It is likely because your display is not tiled and not set to 49. Please click on the triple dot button on the bottom of your google meet and then select "Change Layout", then click on the radio button for the "Tiled" format, then click on the slider in that popup to push it to 49. Now you can view 49 students in a tiled format on the screen which should be plenty large enough for assigning participants.
+
+### Does this extension work with co-teachers?
+
+- Yes it does. Here is a video that explains how you can use this extension in a teaching environment
+  [co-teachers](https://youtu.be/6Z_b4aWHrvY)
 
 ### Do students need to leave the main room?
 
