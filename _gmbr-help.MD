@@ -27,8 +27,8 @@
 
 ### FAQ
 
-- Do my students need to use this extension?
-- How much memory (RAM) do I need to run the extension?
+- [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
+- [How much memory (RAM) do I need to run the extension?](<#how-much-memory-(RAM)-do-i-need-to-run-the-extension?>)
 - What is a Nickname, Code, or URL?
 - Why is the extension not working properly? It used to work but now it doesn't?
 - Do students need to leave the main room when they go to the breakouts?
@@ -244,3 +244,14 @@
 - The export file is a very small text file which contains the breakout rooms links, courses, and settings. It will be downloaded into your pc's download folder.
 
   ![export-popup](./data/export-popup.jpg)
+
+### Do my students need to install this extension
+
+- No. Only the teacher needs to install the extension.
+- Please do not ask your students to install the extension because it is not necessary for them and it may confuse them having an extra unneeded extension on their computers.
+
+### How much memory (RAM) do I need to run the extension?
+
+- Normal Mode: In the "normal" mode where you open up all the breakouts simultaneously in either tab or tile mode, most teachers report that they need about 16G RAM to open more than a few rooms, such as 10. In the normal mode, please do NOT check the checkbox in the Meet tab, Sart Class section.
+
+- Low Memory (RAM) Mode: Video Demo In the "low memory mode" mode even a tiny computer such as a chromebook should be able to run and manage a very large number of breakouts, such as 50. Theoretically it is unlimited because only one breakout room is displayed on your computer at a time. Even though all the rooms are "open", your computer will display them one by one using the slider control For additional help on this option please click on the red Help in the checkbox text.
