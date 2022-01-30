@@ -47,11 +47,17 @@
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
-Breakout Rooms Extension is organized by courses. The first step is to enter your courses in the "Courses" tab.
+- Breakout Rooms Extension is organized by courses. The first step is to enter your courses in the "Courses" tab.
+  ![Enter Course](./data/setup1.png)
 
-The red delete button deletes from the bottom up so if you want to delete a course then use drag and drop the move the course to the bottom of the list and then click on the red delete button
-
-Also in the Courses tab is the export/import button which is the far right hand side black button. This will export all of your data from the extension so that you can import it into a second computer
+- It is possible to use this extension with just ONE course. You do not need to add multiple courses if you do not want to. If you want to run all your classes through one set of google links which are organized by that one course, you certainly can.
+- Multiple courses option is so that teachers may assign certain links to different classes, perhaps on a more permanent basis. Separating them into different courses may make it easier to manage, but it is not a requirement. You can just use ONE course if you want to.
+- To highlight the entire contents of an input box, please triple click. This will highlight everything so you can copy/paste or delete.
+- To add a row, please click on the green + button
+- To save, click on the blue save button
+- Please note that all courses must have a unique name
+- The red delete button deletes from the bottom up so if you want to delete a course then use drag and drop the move the course to the bottom of the list and then click on the red delete button
+- The export/import button which is the far right hand side black button. This will export all of your data from the extension to your pc download folder so that you can import it into a second computer. Or if you want a backup in case you need to uninstall the exension, you can first export the data to your pc so that you can import it after you re-install the extension.
 
 ### Setup 2: Create Breakout Rooms
 
@@ -59,29 +65,38 @@ Also in the Courses tab is the export/import button which is the far right hand 
 
 > [Click here for video tutorial (long version)](https://www.youtube.com/watch?v=qEj7vM50uBQ)
 
-:smile: **By far the simplest way to use this extension is to leave the "Nickname, Code, URL" link field blank.** Create your rows of rooms, give each room a unique name and then click on the save button. The extension will create the links for you. Most people do not use nicknames, codes, or resource URLs. If you want a quickstart and get up and running then just do this: create rows of rooms with unique name, leave the link field blank, and then click on the save button. You're done! Now you have all the rooms you need and can move on to the next step.
+- The breakout rooms are created in the Rooms tab
 
-Google Classroom Teachers: Please copy and paste your "Meet link" from your google classroom page into the link field for your Main room. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. There is no separate Start Class with Google Classroom section. The sync is automatic if the main room is opened within the extension. If you open first in Google Classroom, then you will sync in the Start section of the Meet tab by clicking on the Open/Sync Main room button there.
+  ![Enter Course](./data/setup2.0.png)
 
-- Nickname: Nicknames are dynamic because their meet urls change for each session. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefix such as g.co/meet/ or meet.google.com/lookup/. Nicknames are color coded light green. Nicknames have the advantage that they expire soon after the session concludes with all participants and the teacher exiting the room. In addition, for new sessions the nickname creates new links.
+- :smile: **By far the simplest way to use this extension is to leave the "Nickname, Code, URL" link field blank.** Create your rows of rooms, give each room a unique name and then click on the save button. The extension will create the links for you. Most people do not use nicknames, codes, or resource URLs. If you want a quickstart and get up and running then just do this: create rows of rooms with unique name, leave the link field blank, and then click on the save button. You're done! Now you have all the rooms you need and can move on to the next step.
 
-- Google Classroom Nicknames: Google Classroom nicknames are also dynamic because their meet urls change for each session. You may enter the entire "meet link" from the Google Classroom web page which looks up the 10 character system generated google classroom nickname. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. In this example, the 10 character system generated nickname is g45j4fubqb. You may enter either the full meet link or just the 10 character nickname. They both work the same.
+  ![create rooms](data/setup2.1.png)
 
-  You may also create user defined Google Classroom nicknames. A user defined Google Classroom nickname is the lookup prefix followed by a user defined nickname. An example is https://meet.google.com/lookup/smith_algrebra_1. Alternatively you may more simply enter just the nickname, smith_algebra_1
+- Google Classroom Teachers: Please copy and paste your "Meet link" from your google classroom page into the link field for your Main room. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. There is no separate Start Class with Google Classroom section. The sync is automatic if the main room is opened within the extension. If you open first in Google Classroom, then you will sync in the Start section of the Meet tab by clicking on the Open/Sync Main room button there.
 
-- Code: Codes are static because they always call up the same meet url. A code is a total of 12 characters which consists of the 10 character meet code plus the 2 dashes, in a 3-4-3 format. A code is the 12 characters after the https://meet.google.com/ in the meet url. Static meet urls may be desireable if you want to keep the same link for your sessions
+- Types of links:
 
-- Meet Url: Meet Urls are static because they always call up the same meet url, however, there is a checkbox setting which can make these dynamic by creating new meet urls "on the fly" each time the room is opened. The meet url is the full https://meet.google.com/abc-defg-hij formatted address. You may leave the field blank if you want the extension to automatically create one for you. There is no need to go to the Calendar
+  - _Nickname_: Nicknames are dynamic because their meet urls change for each session. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefix such as g.co/meet/ or meet.google.com/lookup/. Nicknames are color coded light green. Nicknames have the advantage that they expire soon after the session concludes with all participants and the teacher exiting the room. In addition, for new sessions the nickname creates new links.
 
-  To make meet urls dynamic you may click the "Automatically create links each time the room is opened" checkbox in the Settings. This checkbox is only relevant for meet urls. The checkbox is ignored for all other categories such as nicknames, codes, and resource urls.
+  - _Google Classroom Nicknames_: Google Classroom nicknames are also dynamic because their meet urls change for each session. You may enter the entire "meet link" from the Google Classroom web page which looks up the 10 character system generated google classroom nickname. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. In this example, the 10 character system generated nickname is g45j4fubqb. You may enter either the full meet link or just the 10 character nickname. They both work the same.
 
-- Resource Url: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
+    You may also create user defined Google Classroom nicknames. A user defined Google Classroom nickname is the lookup prefix followed by a user defined nickname. An example is https://meet.google.com/lookup/smith_algrebra_1. Alternatively you may more simply enter just the nickname, smith_algebra_1
+
+  - _Code_: Codes are static because they always call up the same meet url. A code is a total of 12 characters which consists of the 10 character meet code plus the 2 dashes, in a 3-4-3 format. A code is the 12 characters after the https://meet.google.com/ in the meet url. Static meet urls may be desireable if you want to keep the same link for your sessions
+
+  - _Meet Url_: Meet Urls are static because they always call up the same meet url, however, there is a checkbox setting which can make these dynamic by creating new meet urls "on the fly" each time the room is opened. The meet url is the full https://meet.google.com/abc-defg-hij formatted address. You may leave the field blank if you want the extension to automatically create one for you. There is no need to go to the Calendar
+
+    To make meet urls dynamic you may click the "Automatically create links each time the room is opened" checkbox in the Settings. This checkbox is only relevant for meet urls. The checkbox is ignored for all other categories such as nicknames, codes, and resource urls.
+
+  - _Resource Url_: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
 
 ### Setup 3: Customize your Settings
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
 
 - Tabs/Tiles: This controls whether the breakout rooms each have their own window (tiles) or if they are separate tabs in a window (tabs). The tabs option can control the number of tabs within a window
+  ![create rooms](data/setup3.png)
 
 - Colors: Customize the bottom border of your Google Meet
 
@@ -101,9 +116,9 @@ Google Classroom Teachers: Please copy and paste your "Meet link" from your goog
 
 - On the Meet tab, click on the section "Start Class"
 
+- Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
   ![meet tab](./data/use1a.png)
 
-- Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
 - You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
 - If you first decided to only open the main room, you can always change you mind and open the breakouts later, by clicking on the "Breakouts" button.
 - If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
