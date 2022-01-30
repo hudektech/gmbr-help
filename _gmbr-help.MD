@@ -1,5 +1,7 @@
 ## Breakout Rooms Extension by Robert Hudek - Online Help
 
+<!-- omit in toc -->
+
 ## [Quickstart v17 Help Video](https://youtu.be/R6h9YXri2Mw)
 
 ### Setup
@@ -28,11 +30,14 @@
 ### FAQ
 
 - [Do my students need to install this extension](#do-my-students-need-to-install-this-extension)
+  <!-- omit in toc -->
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
 - [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
-- [Why can't I see ANY students in the Assign Participants section](#why-cant-i-see-any-students-in-the-assign-participants-section)
-- [Why can't I see ALL of my students in the Assign Participants section?](#why-cant-i-see-all-of-my-students)
+- [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
+- [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
+- [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
+- [How can I close the breakout rooms?](#how-can-i-close-the-breakouts)
 
 ### Setup 1: Enter your courses
 
@@ -277,3 +282,21 @@
 ### Why can't I see all of my students?
 
 - It is likely because your display is not tiled and not set to 49. Please click on the triple dot button on the bottom of your google meet and then select "Change Layout", then click on the radio button for the "Tiled" format, then click on the slider in that popup to push it to 49. Now you can view 49 students in a tiled format on the screen which should be plenty large enough for assigning participants.
+
+### Do students need to leave the main room?
+
+- The short answer is no they do not need to leave the main room. When I teach using this extension most of my students stay in the main room as well as open their assigned breakout room. In that case they are simultaneously in two rooms, the main room and their assigned breakout room. The only time that is a problem is if a student forgets and leaves their microphone on in the main room, because then it would cause feedback to the other rooms.
+
+- On occasion I would have to ask them to please mute their mic in the main room or I can actually mute it for them using the Room Participants Control section "Mute All Participants" button. Please also remember that if you as the teacher have your microphone on in the main room and speak, that will be heard in all the students main room which feeds back in to their breakout rooms (if they have 2 windows open, their main and their breakout room).
+
+- The good news is that if you use the slider you should never accidentally have your microphone on in multiple rooms because the slider automatically mutes all the other rooms and only turns on the microphone in the current slider positioned room. The only time your microphone would be on in multiple rooms is if you either manually turn on the microphone in the room itself (not going through the control panel) or if the slider gets out of sync which may happen if you grab the yellow dot and move it directly. I recommend using the arrows or clicking in a blank position the slider bar. If your slider does get out of sync it is very easy to get back in sync - just click on the right arrow and then the left arrow to reset everything.
+
+- I usually will make a broadcast announcement 5 minutes prior to closing of the breakouts, and when time is up I will also make a broadcast announcement asking them to leave their breakouts and "go back" to the main room. The "go back" is in quotes here because most are already in the main room as well, they never left it. However, some students do leave the main room and then re-enter the main room when they leave the breakouts. I never noticed any difference in the teaching experience, so I let the students do it either way: 1) exit the main room and go to the breakouts or 2) still stay in the main room but also go to the breakout. You may have a different experience so feel free to manage it whichever way you feel best.
+
+### How can I close the breakouts?
+
+- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it. **_ Note that I have not tested this myself. This is based on what I read on Google Meet forums _**
+
+- I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you. I cannot guarantee it will work this way because I have not tested this 40 second prevent re-entry scenario
+
+- You may close the breakout rooms directly by closing the window like any other window or you can click on the "Close Room" button in the Room Participants Control section. If students are lingering and not leaving after you asked them to, you may remove them using the "Remove All Participants" button. After they are removed (and you wait more than 40 seconds if you need to ensure they cannot re-enter) then you may close the room
