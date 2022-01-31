@@ -11,7 +11,7 @@
 - Step 1: [Enter your Courses](#setup-1-enter-your-courses)
 - Step 2: [Create Breakout Rooms](#setup-2-create-breakout-rooms)
 - Step 3: [Customize your Settings](#setup-3-customize-your-settings)
-- Step 4: [Google Meet Tile Layout](#setup-4-google-meet-tile-layout)
+- Step 4: [Change Google Meet Layout](#setup-4-change-google-meet-layout)
 
 ### Teach Class
 
@@ -121,7 +121,7 @@
 
 - There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
 
-### Setup 4: Google Meet Tile Layout
+### Setup 4: Change Google Meet Layout
 
 - For the extension to work properly, you may need to change the setting on your google meet to Tiled Layout
 
