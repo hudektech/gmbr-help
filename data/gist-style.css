@@ -6,6 +6,17 @@
   align-items: center;
 }
 
+.my-btn {
+  border-radius: 10px;
+  padding: 5px;
+  background-color: aquamarine;
+}
+
+.my-btn-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
 .gist-meta {
   text-align: center !important;
 }
