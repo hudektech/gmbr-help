@@ -25,7 +25,7 @@
 
 ### Utilities
 
-- [Hide / Unhide Google Meet Toolbar](#toggle-hide-unhide-meet-toolbar)
+- [Hide / Unhide Google Meet Toolbar](#toggle-hide-unhide-google-meet-toolbar)
 - [Re-tile](#re-tile)
 - [Minimize/Maximize control panel](#minimizemaximize-control-panel)
 - [Reports](#reports)
@@ -228,7 +228,7 @@
 
   ![mute](./data/mute.jpg)
 
-### Toggle Hide Unhide Meet Toolbar
+### Toggle Hide Unhide Google Meet Toolbar
 
 - Sometimes the "real estate" space on your screen is too small, so you can toggle the google meet toolbar to hide or unhide, freeing up space
 
