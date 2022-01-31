@@ -1,4 +1,6 @@
-## Breakout Rooms Extension by Robert Hudek - Online Help
+## Breakout Rooms Extension by Robert Hudek
+
+## Online Help
 
 <!-- omit in toc -->
 
