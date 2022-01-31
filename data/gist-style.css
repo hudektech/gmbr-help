@@ -36,3 +36,9 @@ h4 {
     padding: 20px 0 !important;
   }
 }
+
+@media (max-width: 400px) {
+  .gist {
+    max-width: 350px;
+  }
+}
