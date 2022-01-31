@@ -234,6 +234,8 @@
 
   ![hide](./data/util-hide.jpg)
 
+- Click once to hide it, click again to unhide. In this way you can toggle the hide / unhide.
+
 ### Re-Tile
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=tu59dut08hU)
