@@ -38,17 +38,29 @@ h4 {
   }
 }
 
-@media (min-width: 355px) {
+@media (min-width: 1px) {
   .gist {
     max-width: 350px !important;
   }
 }
-@media (min-width: 425px) {
+@media (max-width: 375px) {
   .gist {
-    max-width: 375px !important;
+    max-width: 360px !important;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 389px) {
+  .gist {
+    max-width: 370px !important;
+  }
+}
+
+@media (max-width: 425px) {
+  .gist {
+    max-width: 380px !important;
+  }
+}
+
+/* @media (min-width: 768px) {
   .gist {
     max-width: 675px !important;
   }
@@ -57,4 +69,4 @@ h4 {
   .gist {
     max-width: 800px !important;
   }
-}
+} */
