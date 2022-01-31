@@ -125,11 +125,11 @@
 
 - For the extension to work properly, you may need to change the setting on your google meet to Tiled Layout
 
-- Click on the 3 dots button at the bottom on the google meet screen
+- Click on the 3 dots button at the bottom on the google meet screen and choose "Change Layout"
 
   ![gm setting1](./data/setup4.1.jpg)
 
-- Choose "Change Layout" and then click on the radio button for Tiled and move the slider all the way to the right to 49.
+- Click on the radio button for "Tiled" and move the slider all the way to the right to 49.
 
   ![gm setting2](./data/setup4.2.jpg)
 
