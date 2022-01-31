@@ -280,7 +280,7 @@
 
   ![export-popup](./data/export-popup.jpg)
 
-### Do my students need to install this extension
+### Do my students need to install this extension?
 
 - No. Only the teacher needs to install the extension.
 - Please do not ask your students to install the extension because it is not necessary for them and it may confuse them having an extra unneeded extension on their computers.
