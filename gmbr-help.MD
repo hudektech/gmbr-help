@@ -11,6 +11,7 @@
 - Step 1: [Enter your Courses](#setup-1-enter-your-courses)
 - Step 2: [Create Breakout Rooms](#setup-2-create-breakout-rooms)
 - Step 3: [Customize your Settings](#setup-3-customize-your-settings)
+- Step 4: [Google Meet Tile Layout](#setup-4-google-meet-tile-layout)
 
 ### Teach Class
 
@@ -119,6 +120,18 @@
 - Automatically refresh room links when opened: [Video tutorial](https://www.youtube.com/watch?v=YU7cMYNKrww) If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
 
 - There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
+
+### Setup 4: Google Meet Tile Layout
+
+- For the extension to work properly, you may need to change the setting on your google meet to Tiled Layout
+
+- Click on the 3 dots button at the bottom on the google meet screen
+
+  ![gm setting1](./data/setup4.1.jpg)
+
+- Choose "Change Layout" and then click on the radio button for Tiled and move the slider all the way to the right to 49.
+
+  ![gm setting2](./data/setup4.2.jpg)
 
 ### Teach Class 1: Select course and number of rooms
 
