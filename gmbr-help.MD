@@ -330,9 +330,9 @@
 
 ### How can I close the breakouts?
 
-- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it. **Note that I have not tested this myself. This is based on what I read on Google Meet forums**
+- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it.
 
-- I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you. I cannot guarantee it will work this way because I have not tested this 40 second prevent re-entry scenario
+- Please note that I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you. I cannot guarantee it will work this way because I have not tested this 40 second prevent re-entry scenario
 
 - You may close the breakout rooms directly by closing the window like any other window or you can click on the "Close Room" button in the Room Participants Control section. If students are lingering and not leaving after you asked them to, you may remove them using the "Remove All Participants" button. After they are removed (and you wait more than 40 seconds if you need to ensure they cannot re-enter) then you may close the room
 
