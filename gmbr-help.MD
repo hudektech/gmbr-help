@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Breakout Rooms Extension by Robert Hudek
 
 ## Online Help
@@ -351,6 +350,3 @@
 ### Will my extension data be overwritten with a new updated version?
 
 - It shouldn't be be overwritten and I try my best to avoid those situations. To protect yourself I advise everyone to download their data periodically using the Export function in the Course tab which will download all the relevant data from the extension to your computer download folder. If something goes wrong the new version and you need to re-install the extension, you can import the data using the Import function and that should re-install your previous data.
-=======
-a
->>>>>>> 39a4e4fb6f9e7cde8212e1ecca1b3c07478cd973
