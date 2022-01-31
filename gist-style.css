@@ -40,16 +40,16 @@ h4 {
 
 @media (max-width: 400px) {
   .gist {
-    max-width: 350px;
+    max-width: 350px !important;
   }
 }
 @media (max-width: 425px) {
   .gist {
-    max-width: 375;
+    max-width: 375px !important;
   }
 }
 @media (max-width: 768px) {
   .gist {
-    max-width: 675px;
+    max-width: 675px !important;
   }
 }
