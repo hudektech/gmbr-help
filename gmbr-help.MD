@@ -136,6 +136,10 @@
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
+- In the Start Class section you will see three buttons
+
+  ![start class](./data/use2.jpg)
+
 - You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
 - If you first decided to only open the main room, you can always change you mind and open the breakouts later, by clicking on the "Breakouts" button.
 - If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
