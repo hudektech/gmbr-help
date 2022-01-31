@@ -38,18 +38,23 @@ h4 {
   }
 }
 
-@media (max-width: 400px) {
+@media (min-width: 355px) {
   .gist {
     max-width: 350px !important;
   }
 }
-@media (max-width: 425px) {
+@media (min-width: 425px) {
   .gist {
     max-width: 375px !important;
   }
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .gist {
     max-width: 675px !important;
+  }
+}
+@media (min-width: 900px) {
+  .gist {
+    max-width: 800px !important;
   }
 }
