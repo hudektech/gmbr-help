@@ -85,15 +85,19 @@
 
   ![create rooms](data/setup2.1.png)
 
-- Google Classroom Teachers: Please copy and paste your "Meet link" from your google classroom page into the link field for your Main room. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. There is no separate Start Class with Google Classroom section. The sync is automatic if the main room is opened within the extension. If you open first in Google Classroom, then you will sync in the Start section of the Meet tab by clicking on the Open/Sync Main room button there.
+- **Google Classroom Teachers**: If you are a Google Classroom teacher your Main room link is the same link as the link for your Google Classroom meet.
+
+  **For Google Class teachers only:** Please copy and paste your "Meet link" from your google classroom page as your Main room link in the Rooms tab.
+
+  ![gc copy1](./data/GC-1.jpg)
+
+  **For Google Class teachers only:** Then go to the Rooms tab of the extension, and copy from your clipboard the meet into the Main room
+
+  ![gc copy2](./data/GC-2.jpg)
 
 - Types of links:
 
   - _Nickname_: Nicknames are dynamic because their meet urls change for each session. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefix such as g.co/meet/ or meet.google.com/lookup/. Nicknames are color coded light green. Nicknames have the advantage that they expire soon after the session concludes with all participants and the teacher exiting the room. In addition, for new sessions the nickname creates new links.
-
-  - _Google Classroom Nicknames_: Google Classroom nicknames are also dynamic because their meet urls change for each session. You may enter the entire "meet link" from the Google Classroom web page which looks up the 10 character system generated google classroom nickname. An example of a Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. In this example, the 10 character system generated nickname is g45j4fubqb. You may enter either the full meet link or just the 10 character nickname. They both work the same.
-
-    You may also create user defined Google Classroom nicknames. A user defined Google Classroom nickname is the lookup prefix followed by a user defined nickname. An example is https://meet.google.com/lookup/smith_algrebra_1. Alternatively you may more simply enter just the nickname, smith_algebra_1
 
   - _Code_: Codes are static because they always call up the same meet url. A code is a total of 12 characters which consists of the 10 character meet code plus the 2 dashes, in a 3-4-3 format. A code is the 12 characters after the https://meet.google.com/ in the meet url. Static meet urls may be desireable if you want to keep the same link for your sessions
 
