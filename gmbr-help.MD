@@ -193,11 +193,12 @@
 
   ![ad hoc 3](./data/adhoc3.jpg)
 
-- In this popup window, click on the first button to copy the Breakout Room Links and then please go to the Main room chat window and paste them in the chat box.
-- Click on the second button to copy the Breakout Rooms Assigned Students list and paste them in the chat window.
-- In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
+- In this popup window below, click on the first button to copy the Breakout Room Links and then please go to the Main room chat window and paste them in the chat box.
+- Click on the second button to copy the Breakout Rooms Assigned Students list and paste them in the chat box.
 
   ![ad hoc4](./data/adhoc4.jpg)
+
+- In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
