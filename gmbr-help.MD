@@ -198,6 +198,10 @@
 
   ![ad hoc4](./data/adhoc4.jpg)
 
+- Paste the two lists (Breakout Rooms Links, and Breakout Rooms Assigned Students) into the chat window below. Google Meet has a 500 character limit on each paste so if the list is long then you may need to divide it up and paste in a couple of chunks.
+
+  ![ad hoc5](./data/adhoc5.jpg)
+
 - In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
