@@ -204,6 +204,10 @@
 
 - In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
 
+- If you have not already done so, please remember to open the breakout rooms by clicking on the "Breakouts" button below. You may open the breakout rooms early, prior to assignment of students, if you want to.
+
+  ![ad hoc6](./data/adhoc6.jpg)
+
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
