@@ -175,9 +175,29 @@
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=8W3BOhwb1hU)
 
-- The instructions for assigning participants in the ad hoc mode (i.e., on the fly) are described in the Meet tab, Assign Participants - Ad Hoc section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
+- To assign students on an Ad Hoc basis please click on the button below:
 
-  ![3b](./data/use3a.jpg)
+  ![ad hoc](./data/adhoc0.jpg)
+
+- Please make sure that you can see your students in the main room. In this example I only have 6 students.
+
+- Also please remember to set your google layout to Tiled and 49 students, as described in [Change Google Meet Layout](#setup-4-change-google-meet-layout). You only need to do this setup once and google meet will remember this setting. If everything is OK then you should see a list of your students and the "Randomly Assign" button will appear.
+
+  ![ad hoc 1](./data/adhoc1.jpg)
+
+- Now you may click on the Randomly Assign button to shuffle the students among the groups. You may click the Random button as many times as you wish until you see a reasonable grouping. Also, you may drag and drop students between groups.
+
+  ![ad hoc 2](./data/adhoc2.jpg)
+
+- Next please click on the button below which will create a popup window.
+
+  ![ad hoc 3](./data/adhoc3.jpg)
+
+- In this popup window, click on the first button to copy the Breakout Room Links and then please go to the Main room chat window and paste them in the chat box.
+- Click on the second button to copy the Breakout Rooms Assigned Students list and paste them in the chat window.
+- In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
+
+  ![ad hoc4](./data/adhoc4.jpg)
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
