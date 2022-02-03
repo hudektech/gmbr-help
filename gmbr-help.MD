@@ -4,7 +4,7 @@
 
 <!-- omit in toc -->
 
-## [Video Tutorial v18 Help](https://youtu.be/W_XZYIf0fFI)
+## [Complete Video Tutorial](https://youtu.be/W_XZYIf0fFI)
 
 ### Setup
 
@@ -39,7 +39,7 @@
   <!-- omit in toc -->
 - [Breakout Rooms Extension by Robert Hudek](#breakout-rooms-extension-by-robert-hudek)
 - [Online Help](#online-help)
-- [Video Tutorial v18 Help](#video-tutorial-v18-help)
+- [Complete Video Tutorial](#complete-video-tutorial)
   - [Setup](#setup)
   - [Teach Class](#teach-class)
   - [Utilities](#utilities)
