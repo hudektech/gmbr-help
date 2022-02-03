@@ -12,6 +12,7 @@
 - Step 2: [Create Breakout Rooms](#setup-2-create-breakout-rooms)
 - Step 3: [Customize your Settings](#setup-3-customize-your-settings)
 - Step 4: [Change Google Meet Layout](#setup-4-change-google-meet-layout)
+- Step 5: [Confirm Google Account](#setup-5-confirm-google-account)
 
 ### Teach Class
 
@@ -133,6 +134,16 @@
 - Click on the radio button for "Tiled" and move the slider all the way to the right to 49.
 
   ![gm setting2](./data/setup4.2.jpg)
+
+### Setup 5: Confirm Google Account
+
+- Please make sure that your listed primary google account is the account that you use to create google meet links, otherwise your links will not work. You need to be the "owner" of the links in order to open them. The "owner" is the account that you used to create the accounts.
+
+  ![account-1](./data/meet-account1.jpg)
+
+- Your primary account is the FIRST account that you used to log in to on your personal computer. If this is not the correct account then please click on the button to reveal the section, then click on the blue button, log out of all your accounts, then log in using your primary google account as the FIRST account you log in, followed by any personal google accounts that you may want to use on this computer.
+
+  ![account-2](./data/meet-account2.jpg)
 
 ### Teach Class 1: Select course and number of rooms
 
