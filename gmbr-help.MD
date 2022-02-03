@@ -4,7 +4,7 @@
 
 <!-- omit in toc -->
 
-## [Quickstart v17 Help Video](https://youtu.be/R6h9YXri2Mw)
+## [Video Tutorial v18 Help](https://youtu.be/W_XZYIf0fFI)
 
 ### Setup
 
@@ -19,7 +19,7 @@
 - Step 2: [Start your class](#teach-class-2-start-your-class)
 - Step 3A: [Assign breakouts - Ad Hoc](#teach-class-3a-assign-breakouts---ad-hoc)
 - Step 3B: [Assign breakouts - Pre Assigned](#teach-class-3b-assign-breakouts---pre-assigned)
-- Step 4: [Move in/out of rooms using the slider](#teach-class-4-move-inout-of-rooms-using-the-slider)
+- Step 4: [Navigate Rooms and Control Audio Visual](#teach-class-4-navigate-rooms-and-control-audio-visual)
 - Step 5: [Broadcast to all breakout rooms](#teach-class-5-broadcast-to-all-breakout-rooms)
 - Step 6: [Mute and remove students](#teach-class-6-mute-and-remove-students)
 
@@ -37,22 +37,43 @@
 
 - [Do my students need to install this extension](#do-my-students-need-to-install-this-extension)
   <!-- omit in toc -->
-- [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
-- [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
-- [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
-- [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
-- [Does this extension work with Co-Teachers?](#does-this-extension-work-with-co-teachers)
-- [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
-- [How can I close the breakouts?](#how-can-i-close-the-breakouts)
-- [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
-- [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
-- [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
-- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
-- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
-- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
-- [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
-- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
-- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
+- [Breakout Rooms Extension by Robert Hudek](#breakout-rooms-extension-by-robert-hudek)
+- [Online Help](#online-help)
+- [Video Tutorial v18 Help](#video-tutorial-v18-help)
+  - [Setup](#setup)
+  - [Teach Class](#teach-class)
+  - [Utilities](#utilities)
+  - [FAQ](#faq)
+  - [Setup 1: Enter your courses](#setup-1-enter-your-courses)
+  - [Setup 2: Create Breakout Rooms](#setup-2-create-breakout-rooms)
+  - [Setup 3: Customize your Settings](#setup-3-customize-your-settings)
+  - [Setup 4: Change Google Meet Layout](#setup-4-change-google-meet-layout)
+  - [Teach Class 1: Select course and number of rooms](#teach-class-1-select-course-and-number-of-rooms)
+  - [Teach Class 2: Start your class](#teach-class-2-start-your-class)
+  - [Teach Class 3a: Assign Breakouts - Ad Hoc](#teach-class-3a-assign-breakouts---ad-hoc)
+  - [Teach Class 3b: Assign Breakouts - Pre Assigned](#teach-class-3b-assign-breakouts---pre-assigned)
+  - [Teach Class 4: Navigate Rooms and Control Audio Visual](#teach-class-4-navigate-rooms-and-control-audio-visual)
+  - [Teach Class 5: Broadcast to All Breakout Rooms](#teach-class-5-broadcast-to-all-breakout-rooms)
+  - [Teach Class 6: Mute and Remove Students](#teach-class-6-mute-and-remove-students)
+  - [Toggle Hide Unhide Google Meet Toolbar](#toggle-hide-unhide-google-meet-toolbar)
+  - [Re-Tile](#re-tile)
+  - [Minimize/Maximize Control Panel](#minimizemaximize-control-panel)
+  - [Reports](#reports)
+  - [Export/Import](#exportimport)
+  - [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
+  - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
+  - [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
+  - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
+  - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
+  - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
+  - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
+  - [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
+  - [How can I close the breakouts?](#how-can-i-close-the-breakouts)
+  - [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
+  - [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
+  - [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
+  - [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
+  - [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
 ### Setup 1: Enter your courses
 
@@ -173,7 +194,7 @@
 
 ### Teach Class 3a: Assign Breakouts - Ad Hoc
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=8W3BOhwb1hU)
+> [Video Tutorial: Assign Ad Hoc](https://youtu.be/W_XZYIf0fFI?t=1016)
 
 - To assign students on an Ad Hoc basis please click on the button below:
 
@@ -210,15 +231,15 @@
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=PMSR5YD62PQ)
+> [Video Tutorial: Assign Students using Pre Assigned Method](https://youtu.be/W_XZYIf0fFI?t=1413)
 
 - The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
   ![3b](./data/use3b.jpg)
 
-### Teach Class 4: Move in/out of rooms using the Slider
+### Teach Class 4: Navigate Rooms and Control Audio Visual
 
-<!-- [Click here for video tutorial]() -->
+> [Video Tutorial: Navigate Rooms and Control Visual](https://youtu.be/W_XZYIf0fFI?t=1650)
 
 - To move between rooms, please either click on the right or left arrows next to the slider or click on the blank space in the slider bar (the black portion). If you click on a blank space in the slider bar, the yellow dot will immediately move to that position.
 
