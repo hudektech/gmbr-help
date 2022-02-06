@@ -4,7 +4,9 @@
 
 <!-- omit in toc -->
 
-## [Step-by-step Video Tutorial](https://youtu.be/W_XZYIf0fFI)
+## [Step-by-step Video Tutorial](https://youtu.be/K5ZlfUxVSwc)
+
+<!-- ## [Step-by-step Video Tutorial](https://youtu.be/W_XZYIf0fFI) -->
 
 ### Setup
 
