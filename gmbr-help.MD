@@ -38,8 +38,6 @@
 
 - [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
-- [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
-- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
@@ -48,12 +46,8 @@
 - [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
 - [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
 - [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
-- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
-- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
 ### Setup 1: Enter your courses
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
 - Breakout Rooms Extension is organized by courses. The first step is to enter your courses in the "Courses" tab.
 
@@ -69,10 +63,6 @@
 - The export/import button which is the far right hand side black button. This will export all of your data from the extension to your pc download folder so that you can import it into a second computer. Or if you want a backup in case you need to uninstall the exension, you can first export the data to your pc so that you can import it after you re-install the extension.
 
 ### Setup 2: Create Breakout Rooms
-
-> [Click here for video tutorial (short version)](https://www.youtube.com/watch?v=eyl8b4RWJMc)
-
-> [Click here for video tutorial (long version)](https://www.youtube.com/watch?v=qEj7vM50uBQ)
 
 - The breakout rooms are created in the Rooms tab
 
@@ -105,8 +95,6 @@
   - _Resource Url_: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
 
 ### Setup 3: Customize your Settings
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
 
 - Tabs/Tiles: This controls whether the breakout rooms each have their own window (tiles) or if they are separate tabs in a window (tabs). The tabs option can control the number of tabs within a window
   ![create rooms](data/setup3.png)
@@ -147,8 +135,6 @@
 
 ### Teach Class 1: Select course and number of rooms
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
-
 - On the Meet tab, click on the section "Start Class"
 
   ![meet tab1](./data/use1.jpg)
@@ -158,8 +144,6 @@
   ![meet tab2](./data/use1a.png)
 
 ### Teach Class 2: Start your class
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
 - In the Start Class section you will see three buttons
 
@@ -179,8 +163,6 @@
   ![retile](./data/use1b.png)
 
 ### Teach Class 3a: Assign Breakouts - Ad Hoc
-
-> [Video Tutorial: Assign Ad Hoc](https://youtu.be/W_XZYIf0fFI?t=1016)
 
 - To assign students on an Ad Hoc basis please click on the button below:
 
@@ -217,15 +199,11 @@
 
 ### Teach Class 3b: Assign Breakouts - Pre Assigned
 
-> [Video Tutorial: Assign Students using Pre Assigned Method](https://youtu.be/W_XZYIf0fFI?t=1413)
-
 - The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
   ![3b](./data/use3b.jpg)
 
 ### Teach Class 4: Navigate Rooms and Control Audio Visual
-
-> [Video Tutorial: Navigate Rooms and Control Visual](https://youtu.be/W_XZYIf0fFI?t=1650)
 
 - To move between rooms, please either click on the right or left arrows next to the slider or click on the blank space in the slider bar (the black portion). If you click on a blank space in the slider bar, the yellow dot will immediately move to that position.
 
@@ -250,8 +228,6 @@
 
 ### Teach Class 5: Broadcast to All Breakout Rooms
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=BywcEyeyCs4)
-
 - Click on the broadcast speaker/microphone/video controls to broadcast into all of the breakout rooms.
 
   ![broadcast](./data/broadcast.jpg)
@@ -259,8 +235,6 @@
 - Once you click on the slider either left or right, the broadcast will automatically be turned off and the normal mode of listening to the breakout room with muted teacher video and muted teacher microphone.
 
 ### Teach Class 6: Mute and Remove Students
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=z6SlEL8Mj_A)
 
 - To mute the participants in a selected room, click on the mute button for the corresponding selection.
 - To remove participants from a room, click on remove button for the corresponding selection.
@@ -278,8 +252,6 @@
 
 ### Re-Tile
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=tu59dut08hU)
-
 - This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
 
   ![retile](./data/use1b.png)
@@ -287,8 +259,6 @@
 - This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
 ### Minimize/Maximize Control Panel
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=0kG_qOnfj2E)
 
 - The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
 
@@ -331,25 +301,6 @@
 
 - Low Memory (RAM) Mode: Video Demo In the "low memory mode" mode even a tiny computer such as a chromebook should be able to run and manage a very large number of breakouts, such as 50. Theoretically it is unlimited because only one breakout room is displayed on your computer at a time. Even though all the rooms are "open", your computer will display them one by one using the slider control For additional help on this option please click on the red Help in the checkbox text.
 
-### What is a nickname, code, or URL?
-
-- _Nickname_: A nickname is a user defined shortcut to call up a meet. Nicknames are specific to an organization. An example of a nickname is the teacher's name followed by the class, such as rhudek_webmagic1. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefixsuch as g.co/meet/ or meet.google.com/lookup/
-
-- _Google Classroom users_:You may enter the lookup link here in the rooms tab and the extension will strip out the nickname for you. The "Meet link" on your Google Classroom page has a link of the format https://meet.google.com/lookup/abcdefghij where the 10 characters after the lookup are your classroom's nickname. That nickname is a random set of characters and has no meaning, but technically it is a "nickname". As a convenience, you may enter that full "Meet link" and the extension will strip out the nickname, or you can alternatively enter the 10 characters after the lookup.
-
-  As an example, my Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. So for this Google Classroom my nickname is g45j4fubqb. The nomenclature is very confusing here which is unfortunate. Google Classroom says "Meet link" but this is actually a lookup for the meet since the meet url changes often. And the 10 characters after the lookup is your Google Classroom nickname even though that nickname has no semantic meaning. If you remember that the 10 characters after the lookup is your GC nickname then you will be able to keep things straight
-
-- _Code_: A code is the 10 character meet code, separated by two -, which makes it a total of 12 characters. An example is abc-defg-hij. Please remember, the extension requires the code to include the two - separators in order to differentiate it from a nickname.
-
-- _Url_: A url can be the full meet url, such as https://meet.google.com/abc-defg-hij. Another example of a url is a teaching resource such as a wikipedia page, https://en.wikipedia.org/wiki/Astronomy, or a free coding bootcamp page such as https://www.freecodecamp.org/
-
-### Why is the extension not working properly?
-
-- This may happen for a number of reasons. One reason is that a new version of my extension was not updated completely on your system. One way to force a restart of your extension is to go to your chrome browser, window menu, select extensions. Find this extension and then turn the slider off, wait 3 seconds, then turn the slider back on again. This does not delete your data. It is similar to restarting your computer but for your extension
-- Other things you may try are Refresh the control panel (command/control r) and Refresh the window (command/control r)
-- Another reason the extension may not work properly is that Google from time to time updates their google meet application which can cause conflicts with my extension. If that happens, or if you suspect something like that has happened to you and your fellow teachers, then please notify me so that I may fix it as soon as possible. My email is robert@hudektech.com.
-- If you feel like you need to uninstall the extension please first export your data so you don't have to re-enter it. First go to the Courses tab, far right hand side black button Export your data. After you uninstall the extension and re-install it, you may import your data. Import your data through the Courses tab and enter your file name.
-
 ### Why can't I see any students in the Assign Participants section?
 
 - The main reason you cannot see any students in the Assign Participants section is likely because your display of Google Meet does not have any students in it. The students icons need to be visible in the meet window in order for the extension to see them to put them in the assign participants section.
@@ -369,21 +320,13 @@
 
 ### Do students need to leave the main room?
 
-- The short answer is no they do not need to leave the main room. When I teach using this extension most of my students stay in the main room as well as open their assigned breakout room. In that case they are simultaneously in two rooms, the main room and their assigned breakout room. The only time that is a problem is if a student forgets and leaves their microphone on in the main room, because then it would cause feedback to the other rooms.
+- No you can allow them to stay in the main room, just make sure they mute themselves so they do not disturb themselves or others when they concurrently have both the Main room and their Breakout room open.
 
-- On occasion I would have to ask them to please mute their mic in the main room or I can actually mute it for them using the Room Participants Control section "Mute All Participants" button. Please also remember that if you as the teacher have your microphone on in the main room and speak, that will be heard in all the students main room which feeds back in to their breakout rooms (if they have 2 windows open, their main and their breakout room).
-
-- The good news is that if you use the slider you should never accidentally have your microphone on in multiple rooms because the slider automatically mutes all the other rooms and only turns on the microphone in the current slider positioned room. The only time your microphone would be on in multiple rooms is if you either manually turn on the microphone in the room itself (not going through the control panel) or if the slider gets out of sync which may happen if you grab the yellow dot and move it directly. I recommend using the arrows or clicking in a blank position the slider bar. If your slider does get out of sync it is very easy to get back in sync - just click on the right arrow and then the left arrow to reset everything.
-
-- I usually will make a broadcast announcement 5 minutes prior to closing of the breakouts, and when time is up I will also make a broadcast announcement asking them to leave their breakouts and "go back" to the main room. The "go back" is in quotes here because most are already in the main room as well, they never left it. However, some students do leave the main room and then re-enter the main room when they leave the breakouts. I never noticed any difference in the teaching experience, so I let the students do it either way: 1) exit the main room and go to the breakouts or 2) still stay in the main room but also go to the breakout. You may have a different experience so feel free to manage it whichever way you feel best.
+- Students on mobile devices will have to leave the Main room to enter their Breakout room because Google Meet does not allow mobile users to concurrently be in multiple meets at the same time.
 
 ### How can I close the breakouts?
 
-- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it.
-
-- Please note that I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you.
-
-- You may close the breakout rooms directly by closing the window like any other window or you can click on the "Close Room" button in the Room Participants Control section. If students are lingering and not leaving after you asked them to, you may remove them using the "Remove All Participants" button. After they are removed (and you wait more than 40 seconds if you need to ensure they cannot re-enter) then you may close the room
+- You may close the breakouts through the extension control panel in the "Mute and Remove Participants" section or just directly close the meets.
 
 ### How can I simulate students to practice using the extension?
 
@@ -391,24 +334,8 @@
 
 ### Do all the rooms have to be Meets?
 
-- Yes, you can! As of version 15.9 and above, "rooms" may include non-Meet links such as any resource you may want to use for teaching materials during class. Examples are a youtube video, an online news article, or a science web page which you want to cover during class. Just create a "room" for those resources, give the resource a name such as "Astronomy", and enter the appropriate url link value such as https://solarsystem.nasa.gov/asteroids-comets-and-meteors/overview/. Please remember that your link must start with either https:// or http:// otherwise it will be considered invalid and a new google meet link will be created and stored in it's place.
-
-- Resource "rooms" can be a useful way of staging your resources that you want to cover during class. You can then open them as needed by increasing the number of breakout "rooms" and then click open. The resource rooms can be retiled the same as a Meet breakout room, but they are not available on the slider because there the slider is meant for entering a meet room which audio/visual controls.
-
-- Even if a teacher does not want to use breakout rooms for a teaching session, the teacher can still use this feature to stage resources and call them up as needed. In this case, let's say the teacher is only going to open the Main room, but the teacher may stage all the rest of the rooms as resources that will be discussed during class. So in this way the "Breakout Rooms" extension can be useful for teachers who actually never use breakout rooms. The breakout rooms for these teachers is really a staging, opening, and retiling of resources that will be taught in class
-
-- The rooms can be moved up and down in the Rooms tab by dragging and dropping. The resources are opened by the number of breakout rooms selected on the Meet tab. So if a teacher wants a split screen with the main room on one side and the resource on the other, the teacher can do that by selecting "1" as the number of breakouts and then open all rooms (just one in this case, the resource). After the resource is covered, the teacher can go back to the Rooms tab, drag and drop the next resource and open all, then retile. The new resource will open and snap into place on the right hand side. Teachers can progress through the list of their in this manner.
-
-- Another option for grouping your resources is to create a "course" to hold your resources. This way if you are teaching in the main room only (no breakouts), you can switch the course on the Meet tab to the resource "course" and open it's breakouts. You can then present your screen or these tabs in your main room. Actually, the possibilities are almost endless. Explore and try out this new feature to see what works best for you. I think you may find it quite useful to organize and present your additional online teaching materials
+- No. You can also include urls for Youtube and other web site resources in your Rooms list. Think of it as staging your resources and then calling them up when you need them as if they are a "room", all neatly tiled on your screen.
 
 ### How can I use this extension on multiple computers?
 
 - Use the export/import option in the "Courses" tab to download your data from your first computer. Go to your second computer and import this file. Now the two computers are in sync
-
-### Does this work with Google Classroom?
-
-- Yes, and there is a special workflow for integrating with Google Classroom which is described step by step in the Start Class with Google Classroom section on the meet tab of this extension
-
-### Will my extension data be overwritten with a new updated version?
-
-- It shouldn't be be overwritten and I try my best to avoid those situations. To protect yourself I advise everyone to download their data periodically using the Export function in the Course tab which will download all the relevant data from the extension to your computer download folder. If something goes wrong the new version and you need to re-install the extension, you can import the data using the Import function and that should re-install your previous data.
