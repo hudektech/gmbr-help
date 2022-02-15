@@ -299,7 +299,7 @@
 ### Do my students need to install this extension?
 
 - No. Only the teacher needs to install the extension.
-- Please do not ask your students to install the extension because it is not necessary for them and it may confuse them having an extra unneeded extension on their computers.
+- There are some functions on the extension that the students may like for their personal use such as the addition of the Speaker button and some color themes, however, students do NOT need to install the extension.
 
 ### How much memory (RAM) do I need to run the extension?
 
