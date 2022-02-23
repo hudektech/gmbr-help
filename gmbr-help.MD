@@ -333,7 +333,7 @@
 
 - With this option you still can create and manage a large number of breakout rooms but in order to save memory only one breakout room window is opened at a time. Theoretically, you can use this method to manage 100 or more breakout rooms on just a tiny memory chromebook, however, you may only see one breakout room at a time similar to Zoom where the teacher can only see one breakout room at a time.
 
-- The one difference in the process is that you will need to cycle through all of your rooms (lets say 20 as an example) first in order for those students to enter. Unless you check "on" the auto allow students checkbox in the settings sections, google meet will require you as the teacher to be in the room for students to enter. However, once they have entered then you can leave the room and go to the next one.
+- The one difference in the process is that you will need to cycle through all of your rooms (lets say 20 as an example) first in order for those students to enter. Unless you check "on" the auto allow students (outside participants) to enter checkbox in the settings sections, google meet will require you as the teacher to be in the room for students to enter. However, once they have entered then you can leave the room and go to the next one.
 
 - In order to make this process go quicker, if you choose this low memory option first ask the students to enter their rooms. They will see a message that they are waiting for you to enter the room. Now you can cycle through your rooms, 20 rooms in this example, to allow them to enter. Once you complete this cycle, then everything works normally. You can enter any room you want to monitor their progress.
 
