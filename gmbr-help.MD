@@ -47,6 +47,7 @@
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
+- [What is the Low Memory (RAM) Option?](#what-is-the-low-memory-ram-option)
 - [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
 - [How can I close the breakouts?](#how-can-i-close-the-breakouts)
 - [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
@@ -323,6 +324,20 @@
 
 - Yes it does. Here is a video that explains how you can use this extension in a teaching environment
   [co-teachers](https://youtu.be/6Z_b4aWHrvY)
+
+### What is the Low Memory (RAM) option?
+
+- This option is not commonly used. The normal mode is to not check this box, leave it unchecked.
+
+- If your computer lags significantly (or freezes up) when you open multiple breakout rooms it may be because your computer's RAM memory is 8G RAM or less. If this is the case, then consider clicking on the "Low Memory (RAM) Option" where you will have only 1 breakout room window visible at a time.
+
+- With this option you still can create and manage a large number of breakout rooms but in order to save memory only one breakout room window is opened at a time. Theoretically, you can use this method to manage 100 or more breakout rooms on just a tiny memory chromebook, however, you may only see one breakout room at a time similar to Zoom where the teacher can only see one breakout room at a time.
+
+- The one difference in the process is that you will need to cycle through all of your rooms (lets say 20 as an example) first in order for those students to enter. Unless you check "on" the auto allow students checkbox in the settings sections, google meet will require you as the teacher to be in the room for students to enter. However, once they have entered then you can leave the room and go to the next one.
+
+- In order to make this process go quicker, if you choose this low memory option first ask the students to enter their rooms. They will see a message that they are waiting for you to enter the room. Now you can cycle through your rooms, 20 rooms in this example, to allow them to enter. Once you complete this cycle, then everything works normally. You can enter any room you want to monitor their progress.
+
+- With this option there is no broadcast because you as the teacher are only present in one room at a time.
 
 ### Do students need to leave the main room?
 
